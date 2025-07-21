@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tobore!
 
-<h2>👨‍💻 Data Analysis Project:</h2>
+<h2>👨‍💻 Data Analysis:</h2>
 
 - <b>Data analysis Certifications</b>
   - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/NWVPMUAV7QEJ)
