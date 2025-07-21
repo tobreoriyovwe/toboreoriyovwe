@@ -5,9 +5,9 @@
 - <b>Data analysis Certifications</b>
   - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/NWVPMUAV7QEJ)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 New column to be added</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Name to be updated](paste link here after update)
 
 
 <h2> 🤳 Connect with me:</h2>
